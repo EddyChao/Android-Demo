@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NotchDemo</string>
+    <string name="hello_world">点击屏幕获取坐标</string>
+</resources>
